@@ -1,15 +1,7 @@
 <!-- HEADINGS este texto no se ve-->
 
 
-# titulo1
-## mi titulo 2
-### mi titulo tres
-
-Este es un texto en *italica*
-this is an **strong** text
-este es un texto ~~tachado~~
-
-* carro
+#
 # Actividad 2
 ## primeros pasos en la programación en python. 
 # Hola mundo en block de notas:
